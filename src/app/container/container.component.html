@@ -1,0 +1,22 @@
+<div *ngIf="products.length > 0; else noProducts">
+  <!-- Display products when there are products in the array -->
+  <div *ngFor="let product of products;">
+    <div class="product">
+      <h2>{{ product.name }}</h2>
+      <p>
+        {{ product.desc }}
+        <img
+          [src]="product.info_img"
+          alt="Product Info"
+          (mouseenter)="product.showInfo = true"
+          (mouseleave)="product.showInfo = false"
+        />
+      </p>
+      <p *ngIf="product.showInfo">{{ product.info_desc }}</p>
+    </div>
+  </div>
+</div>
+
+<ng-template #noProducts>
+  <p>No products available</p>
+</ng-template>

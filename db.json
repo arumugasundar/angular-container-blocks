@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "EcoFresh Air Purifier",
+      "desc": "The EcoFresh Air Purifier is a cutting-edge home appliance designed to ensure you breathe in clean, fresh air. It utilizes advanced HEPA filtration technology to remove 99.97% of airborne particles, including dust, pollen, pet dander, and even harmful bacteria. With its sleek and compact design, it seamlessly blends into any room while quietly improving your indoor air quality.",
+      "showInfo": false,
+      "info_img": "https://api.iconify.design/ic:outline-info.svg",
+      "info_desc": "Did you know that the EcoFresh Air Purifier also features a smart sensor system that detects air quality in real-time? It automatically adjusts its purification speed to maintain optimal air quality, and you can monitor your home's air quality through a user-friendly app on your smartphone."
+    },
+    {
+      "id": 2,
+      "name": "BioGlow Plant Lamp",
+      "desc": "The BioGlow Plant Lamp is a revolutionary lighting solution for plant enthusiasts. This LED grow lamp mimics natural sunlight, providing the perfect spectrum of light for photosynthesis and healthy plant growth. Its adjustable height and intensity settings make it suitable for a wide range of indoor plants, from succulents to orchids.",
+      "showInfo": false,
+      "info_img": "https://api.iconify.design/ic:outline-info.svg",
+      "info_desc": "Beyond promoting plant growth, the BioGlow Plant Lamp is eco-friendly. It consumes significantly less energy than traditional grow lights and has a long lifespan, reducing your carbon footprint while helping your plants thrive. Plus, its modern design makes it an attractive addition to your home decor."
+    },
+    {
+      "id": 3,
+      "name": "TimeSaver Robotic Vacuum",
+      "desc": "The TimeSaver Robotic Vacuum is your ultimate cleaning companion. This intelligent robot is equipped with advanced navigation technology and powerful suction, making it efficient at cleaning all types of floors, from hardwood to carpets. Its sleek and slim design allows it to effortlessly glide under furniture and reach tight corners.",
+      "showInfo": false,
+      "info_img": "https://api.iconify.design/ic:outline-info.svg",
+      "info_desc": "What sets the TimeSaver Robotic Vacuum apart is its smart scheduling feature. You can program it to clean your home at specific times, ensuring that your floors are always spotless without any effort. It also includes a HEPA filter that captures allergens, making it ideal for allergy sufferers, and it can be controlled via a user-friendly mobile app or voice commands for added convenience."
+    }
+  ]
+}

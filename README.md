@@ -1,3 +1,12 @@
+Run following commands on root directory to execute the project in local
+
+`To run the mock database`
+```bash
+npm install -g json-server
+json-server --watch db.json
+```
+-----------------------------------------------------------------------------------------------
+
 # AngularContainerBlocks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.

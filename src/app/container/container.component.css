@@ -1,0 +1,12 @@
+.product img {
+  cursor: pointer; /* Change cursor to a pointer on hover */
+}
+
+.product p.info-desc {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out; /* Add a smooth transition effect */
+}
+
+.product:hover p.info-desc {
+  opacity: 1;
+}
